@@ -8,7 +8,7 @@ The air quality data was obtained from the PRSA Data Archive, which includes hou
 The data analysis was conducted using Python and various data analysis libraries such as pandas, numpy, matplotlib, and seaborn. The analysis includes data cleaning and preprocessing and exploratory data analysis. The results of the analysis are presented in Jupyter notebooks, which can be found in the notebooks directory.
 
 # Repository Structure
-data: contains the raw data files downloaded from the PRSA Data Archive, as well as the cleaned and processed data files.
-notebooks: contains the Jupyter notebooks used for data analysis, including data cleaning and preprocessing and exploratory data analysis.
-plots: contains the visualizations generated during the analysis, including histograms, bar charts, and heatmaps.
+data: contains the raw data files downloaded from the PRSA Data Archive, as well as the cleaned and processed data files.<br>
+notebooks: contains the Jupyter notebooks used for data analysis, including data cleaning and preprocessing and exploratory data analysis.<br>
+plots: contains the visualizations generated during the analysis, including histograms, bar charts, and heatmaps.<br>
 README.md: the file you're currently reading, which provides an overview of the project and how to use it.
